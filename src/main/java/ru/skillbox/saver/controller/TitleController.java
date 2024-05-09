@@ -19,5 +19,4 @@ public class TitleController {
         return "app_title";
     }
 
-
 }
