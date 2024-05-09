@@ -1,0 +1,21 @@
+.center_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.error {
+    color: #ff1f1a;
+    font-weight: bold;
+    font-size: small;
+}
+
+.success {
+    color: #2fff13;
+    font-weight: bold;
+}
